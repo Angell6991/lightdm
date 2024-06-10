@@ -1,0 +1,1 @@
+ruta: /etc/lightdm 
