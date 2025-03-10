@@ -1,5 +1,6 @@
-put in the directory:  
-
-´´´sh
+Put in the directory: 
+```sh
 /etc/lightdm
-´´´
+```
+
+
