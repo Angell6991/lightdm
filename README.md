@@ -1,5 +1,5 @@
 put in the directory:  
 
-´´´zsh
+´´´sh
 /etc/lightdm
 ´´´
